@@ -34,8 +34,9 @@ My name is Adrián and i am a software computer engineer from Spain who likes to
 <img align="left" title="CassandraDB" alt="CassandraDB" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1280px-Cassandra_logo.svg.png" />
 <img align="left" title="Google BigQuery" alt="Google BigQuery" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Google-BigQuery-Logo.svg/128px-Google-BigQuery-Logo.svg.png"/>
 <img align="left" title="SQL Server" alt="Sql Server" width="26px" src="https://www.abd.es/wp-content/uploads/2018/11/sql-server-logo.png"/>
-<br>
+<img align="left" title="SQLite" alt="SQLite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" />
 
+<br>
 ## Operating Systems
 
 
