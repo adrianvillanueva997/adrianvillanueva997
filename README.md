@@ -1,3 +1,4 @@
+
 ### Hello there! 👋
 ## About me
 
@@ -58,8 +59,8 @@ My name is Adrián and i am a software computer engineer from Spain who likes to
   - Kubernetes
   
 # 📫 Reach me:
-
-
- - send me an email to: adrianvillanueva997[at]gmail dot com
- 
- 
+ - [<img align="left" alt="adrianvillanueva997 mail | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png"/>][email]
+ - [<img align="left" alt="Adrianvillanueva997 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  
+[linkedin]: https://www.linkedin.com/in/adrian-villanueva-martinez/
+[email]: mailto:adrianvillanueva997@gmail.com
