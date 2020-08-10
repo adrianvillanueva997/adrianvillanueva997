@@ -35,8 +35,9 @@ My name is Adrián and i am a software computer engineer from Spain who likes to
 <img align="left" title="Google BigQuery" alt="Google BigQuery" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Google-BigQuery-Logo.svg/128px-Google-BigQuery-Logo.svg.png"/>
 <img align="left" title="SQL Server" alt="Sql Server" width="26px" src="https://www.abd.es/wp-content/uploads/2018/11/sql-server-logo.png"/>
 <img align="left" title="SQLite" alt="SQLite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" />
-
 <br>
+
+
 ## Operating Systems
 
 
