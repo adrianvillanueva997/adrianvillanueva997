@@ -12,7 +12,7 @@ My name is Adrián and i am a software computer engineer from Spain who likes to
 # Technologies & tools
 ## Programming Languages 
 <img align="left" title="Python" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" title="GNU/Linux" alt="GNU/Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="left" title="Bash" alt="Bash" width="26px" src="https://image.flaticon.com/icons/svg/919/919837.svg" />
 <img align="left" title="Java" alt="Java" width="26px" src="https://image.flaticon.com/icons/svg/226/226777.svg"/>
 <img align="left" title="C" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 <img align="left" title="C++" alt="C++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
