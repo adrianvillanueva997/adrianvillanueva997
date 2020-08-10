@@ -50,6 +50,8 @@ My name is Adrián and i am a software computer engineer from Spain who likes to
 <img align="left" title="Docker" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" />
 <img align="left" title="Git" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png" />
 <img align="left" title="GCP" alt="GCP" width="26px" src="https://www.gstatic.com/devrel-devsite/prod/va2f579f943e40687d02fe75a771878e054c901286ea550f8e49c5efb402dac68/cloud/images/favicons/onecloud/apple-icon.png" />
+<img align="left" title="Proxmox" alt="Proxmox" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/proxmox-512.png" />
+
 <br>
 
 # 🌱 I’m currently learning:
