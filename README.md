@@ -44,6 +44,8 @@ My name is Adrián and i am a software computer engineer from Spain who likes to
 <img align="left" title="Ubuntu" alt="Ubuntu" width="26px" src="https://image.flaticon.com/icons/svg/81/81270.svg" />
 <img align="left" title="CentOS" alt="CentOS" width="26px" src="https://seeklogo.com/images/C/centos-logo-494F57D973-seeklogo.com.png" />
 <img align="left" title="Raspbian" alt="Raspbian" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"/>
+<img align="left" title="Alpine Linux" alt="Alpine Linux" width="26px" src="https://symbols.getvecta.com/stencil_73/77_alpine-linux-icon.00f6f0fbf1.svg"/>
+
 <br>
 
 ## Misc
@@ -57,7 +59,6 @@ My name is Adrián and i am a software computer engineer from Spain who likes to
 <br>
 
 # 🌱 I’m currently learning:
-  - Deploying my own docker containers instead of using premade ones
   - Golang web apps and apis
   - Jenkins
   - Kubernetes
