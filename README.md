@@ -6,8 +6,9 @@ My name is Adrián and i am a software computer engineer from Spain who likes to
  ### ⚡ Hobbies and those things:
  - I love videogames, if you ask me what I am playing now I'll probably answer Dota 2.
  - I love metal, right now i am digging a lot into power metal and death metal, they are cool. 
- - I love cats
- - My favourite writer is Dmitry Glukhovsky
+ - I love cats.
+ - My favourite writer is Dmitry Glukhovsky.
+ - Currently I am reading Warhammer Fantasy novels.
 
 # Technologies & tools
 ## Programming Languages 
