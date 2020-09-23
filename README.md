@@ -47,7 +47,6 @@ My name is Adrián and i am a software computer engineer from Spain who likes to
 <img align="left" title="Raspbian" alt="Raspbian" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"/>
 <img align="left" title="Windows Server" alt="Windows Server 2012" width="26px" src="https://img2.freepng.es/20180820/hwh/kisspng-windows-server-2-12-computer-servers-microsoft-win-kvm-5b7b67aacc4e33.0162970515348141228369.jpg" />
 <img align="left" title="Debian" alt="Debian" width="26px" src="https://cdn.pixabay.com/photo/2016/03/24/19/02/debian-1277387_1280.png" />
-<img align="left" title="Alpine Linux" alt="Alpine Linux" width="26px" src="https://symbols.getvecta.com/stencil_73/77_alpine-linux-icon.00f6f0fbf1.svg"/>
 
 <br>
 
@@ -62,9 +61,10 @@ My name is Adrián and i am a software computer engineer from Spain who likes to
 <br>
 
 # 🌱 I’m currently learning:
-  - Golang web apps and apis
-  - Jenkins
-  - Kubernetes
+  - Golang web apps and apis.
+  - Jenkins.
+  - Kubernetes.
+  - Node js and react.
   
 # I'm currently working on:
 - Developing my own website
