@@ -2,10 +2,10 @@
 ### Hello there! 👋
 ## About me
 
-My name is Adrián and i am a software computer engineer from Spain who likes to tinker around with different technologies. This is my personal portfolio and you will find personal projects and university projects.
+My name is Adrián and i am a software engineer from Spain who likes to tinker around with different technologies. This is my personal portfolio and you will find personal projects and university projects.
  ### ⚡ Hobbies and those things:
  - I love videogames, if you ask me what I am playing now I'll probably answer Dota 2.
- - I love metal, right now i am digging a lot into power metal and death metal, they are cool. 
+ - I love metal. 
  - I love cats.
  - My favourite writer is Dmitry Glukhovsky.
  - Currently I am reading Warhammer Fantasy novels.
@@ -65,11 +65,12 @@ My name is Adrián and i am a software computer engineer from Spain who likes to
   - Jenkins.
   - Kubernetes.
   - Node js and react.
+  - Pytorch.
   
 # I'm currently working on:
-- Developing my own website
-- Developing/thinking about making my own blog
 - Developing web apps for my discord/telegram bots
+- Tinkering around with golang
+- Exploring CI/CD with github actions
   
 # 📫 Reach me:
  - [<img align="left" alt="adrianvillanueva997 mail | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png"/>][email]
