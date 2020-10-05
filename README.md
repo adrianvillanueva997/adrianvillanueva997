@@ -81,3 +81,4 @@ My name is Adrián and i am a software engineer from Spain who likes to tinker a
 
 [![my github stats](https://github-readme-stats.vercel.app/api?username=adrianvillanueva997)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianvillanueva997&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
