@@ -1,7 +1,6 @@
 
 ### Hello there! 👋
 ## About me
-
 My name is Adrián and i am a software engineer from Spain who likes to tinker around with different technologies. This is my personal portfolio and you will find personal projects and university projects.
  ### ⚡ Hobbies and those things:
  - I love videogames, if you ask me what I am playing now I'll probably answer Dota 2.
@@ -78,3 +77,7 @@ My name is Adrián and i am a software engineer from Spain who likes to tinker a
   
 [linkedin]: https://www.linkedin.com/in/adrian-villanueva-martinez/
 [email]: mailto:adrianvillanueva997@gmail.com
+
+
+[![my github stats](https://github-readme-stats.vercel.app/api?username=adrianvillanueva997)](https://github.com/anuraghazra/github-readme-stats)
+
