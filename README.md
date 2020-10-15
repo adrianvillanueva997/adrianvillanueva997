@@ -4,8 +4,7 @@
 My name is Adrián and i am a software engineer from Spain who likes to tinker around with different technologies. This is my personal portfolio and you will find personal projects and university projects.
  ### ⚡ Hobbies and those things:
  - I love videogames, if you ask me what I am playing now I'll probably answer Dota 2.
- - I love metal. 
- - I love cats.
+ - I love cats and metal.
  - My favourite writer is Dmitry Glukhovsky.
  - Currently I am reading Warhammer Fantasy novels.
 
