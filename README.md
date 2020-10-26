@@ -105,8 +105,8 @@
 
 
 ## Github Stats 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=adrianvillanueva997&show_icons=true&count_private=true&hide_border=true" align="right" /></div>
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianvillanueva997&hide_border=true&layout=compact&langs_count=10" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=adrianvillanueva997&show_icons=true&count_private=true&hide_border=true" align="right" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianvillanueva997&hide_border=true&layout=compact&langs_count=10" align="center" /></div>  
 
 <br/>  
 
