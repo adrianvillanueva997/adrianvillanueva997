@@ -59,7 +59,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 </div>
@@ -85,7 +84,20 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" />  
+<img style= "margin: 10px"src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/githubactions.svg" alt="Github Actions" height="50" />
+</div>
+
+### Tools  
+<div align="center">  
+<img style= "margin: 10px"src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/webstorm.svg" alt="WebStorm" height="50" />
+<img style= "margin: 10px"src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/intellijidea.svg" alt="IntelliJ" height="50" />
+<img style= "margin: 10px"src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pycharm.svg" alt="pycharm" height="50" />
+<img style= "margin: 10px"src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vim.svg" alt="vim" height="50" />
+<img style= "margin: 10px"src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" alt="IntelliJ" height="50" />
+
+
+
+
 
 </div>
 
