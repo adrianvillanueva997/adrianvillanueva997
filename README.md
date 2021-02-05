@@ -44,6 +44,15 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 </div>
 
+### Tools  
+<div align="center">  
+<img style= "margin: 10px"src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/webstorm.svg" alt="WebStorm" height="50" />
+<img style= "margin: 10px"src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/intellijidea.svg" alt="IntelliJ" height="50" />
+<img style= "margin: 10px"src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pycharm.svg" alt="pycharm" height="50" />
+<img style= "margin: 10px"src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vim.svg" alt="vim" height="50" />
+<img style= "margin: 10px"src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" alt="IntelliJ" height="50" />
+</div>
+
 </td><td valign="top" width="33%">
 
 
@@ -87,19 +96,6 @@
 <img style= "margin: 10px"src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/githubactions.svg" alt="Github Actions" height="50" />
 </div>
 
-### Tools  
-<div align="center">  
-<img style= "margin: 10px"src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/webstorm.svg" alt="WebStorm" height="50" />
-<img style= "margin: 10px"src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/intellijidea.svg" alt="IntelliJ" height="50" />
-<img style= "margin: 10px"src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pycharm.svg" alt="pycharm" height="50" />
-<img style= "margin: 10px"src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vim.svg" alt="vim" height="50" />
-<img style= "margin: 10px"src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" alt="IntelliJ" height="50" />
-
-
-
-
-
-</div>
 
 </td></tr></table>  
 
