@@ -55,19 +55,7 @@
 
 </td><td valign="top" width="33%">
   
-### Environments   
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />
-<img style= "margin: 10px"src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ubuntu.svg" alt="Ubuntu" height="50" />
-<img style= "margin: 10px"src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/archlinux.svg" alt="Arch" height="50" />
-<img style= "margin: 10px"src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/debian.svg" alt="Debian" height="50" />
-<img style= "margin: 10px"src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/centos.svg" alt="CentOS" height="50" />
 
-
-
-
-</div>
 
 </td><td valign="top" width="33%">
 
@@ -86,12 +74,19 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
   <img style= "margin: 10px"src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/graphql.svg" alt="GraphQL" height="50" />
+</div>
 
+### Environments   
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />
+<img style= "margin: 10px"src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ubuntu.svg" alt="Ubuntu" height="50" />
+<img style= "margin: 10px"src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/archlinux.svg" alt="Arch" height="50" />
+<img style= "margin: 10px"src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/debian.svg" alt="Debian" height="50" />
+<img style= "margin: 10px"src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/centos.svg" alt="CentOS" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="center">  
