@@ -124,14 +124,7 @@
 <br/>  
 
 
-## My soundtrack  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=xiao_7&cover_image=true&theme=novatorem" /></div>  
-
-<br/>  
+ 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=adrianvillanueva997&&style=flat-square" align="center" />
