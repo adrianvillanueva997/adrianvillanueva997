@@ -119,7 +119,7 @@
 
 
 ## Github Stats 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianvillanueva997&hide_border=true&layout=compact&langs_count=10" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianvillanueva997&hide_border=true&layout=compact&langs_count=20&hide=css,html" align="center" /></div>  
 
 <br/>  
 
