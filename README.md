@@ -9,10 +9,10 @@
 
 
 ### About me  
-- 👾 I love videogames, if you ask me what I am playing now I'll probably answer Dota 2.  
+- 👾 videogames.  
   
 
-- 🌱 I love cats and metal.  
+- 🌱 Cats and metal.  
   
 
 - ❓ My favourite writer is Dmitry Glukhovsky.  
