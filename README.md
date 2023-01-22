@@ -9,16 +9,16 @@
 
 
 ### About me  
-- 👾 videogames.  
+- 👾 I like cats.  
   
 
-- 🌱 Cats and metal.  
+- 🌱 Loves traveling.  
   
 
 - ❓ My favourite writer is Dmitry Glukhovsky.  
   
 
-- ⚡ Currently I am reading Warhammer Fantasy novels.  
+- ⚡ Currently learning rust and other technologies.  
   
 
 <br/>  
