@@ -12,7 +12,7 @@
 - 👾 I like cats.  
   
 
-- 🌱 Loves traveling.  
+- 🌱 Vegan.  
   
 
 - ❓ My favourite writer is Dmitry Glukhovsky.  
