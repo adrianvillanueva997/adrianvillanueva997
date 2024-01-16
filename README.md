@@ -2,7 +2,7 @@
   <img src="https://codingcat.codes/wp-content/uploads/2017/08/l1-1.png" align="center" style="width: 50%" />
 </div>  
 
-# <div align="center">🌀 Archmage of Engineering: Adrian's Ever-shifting Nexus of Knowledge 🔮</div>  
+# <div align="center">🌀 Archmage of Engineering: Ever-shifting Nexus of Knowledge 🔮</div>  
 
 <p>Welcome to the arcane tapestry of my software sorcery! As a masterful Software Sorcerer, my expertise delves into the ever-shifting realms of 💻 Python, 🚀 Go, ⚙️ Rust, ☕ Java, 🌐 Web Development, and ☕ C. I am a conjurer of code, weaving intricate spells of innovation and transcendence that defy the mundane boundaries of tradition.</p>
 
