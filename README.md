@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/adrianvillanueva997/adrianvillanueva997/blob/master/images/00005.png" align="center" style="width: 50%" />
+  <img src="https://github.com/adrianvillanueva997/adrianvillanueva997/blob/master/images/00005.png" align="center" style="width: 100%" />
 </div>
 
 # <div align="center">🌀 Archmage of Engineering: Ever-shifting Nexus of Knowledge 🔮</div>
