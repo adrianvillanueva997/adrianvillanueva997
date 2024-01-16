@@ -2,15 +2,17 @@
   <img src="https://codingcat.codes/wp-content/uploads/2017/08/l1-1.png" align="center" style="width: 50%" />
 </div>  
 
-# <div align="center">🔮 Archmage of Engineering | Adrián Villanueva, Software Engineer</div>  
+# <div align="center">🌀 Archmage of Engineering: Adrian's Ever-shifting Nexus of Knowledge 🔮</div>  
 
-Welcome to my digital realm! I'm Adrián, a seasoned Software Engineer with a fervor for innovation and excellence. Proficient in Python, Go, Rust, and Java, I specialize in crafting powerful solutions that transcend traditional boundaries.
+<p>Welcome to the arcane tapestry of my software sorcery! As a masterful Software Sorcerer, my expertise delves into the ever-shifting realms of 💻 Python, 🚀 Go, ⚙️ Rust, ☕ Java, 🌐 Web Development, and ☕ C. I am a conjurer of code, weaving intricate spells of innovation and transcendence that defy the mundane boundaries of tradition.</p>
 
-Explore the vast landscapes of ☁️ Cloud architecture with me, where I leverage cutting-edge technologies to create scalable and resilient systems. Join me in the mastery of 📊 Data Engineering, where I sculpt meaningful insights from the raw clay of data.
+<p>Embark on a mystical journey through the labyrinthine corridors of ☁️ Cloud architecture, where I navigate the unpredictable currents of change. Armed with the arcane knowledge of cutting-edge technologies, I sculpt resilient systems that metamorphose in response to the ever-evolving demands of the digital ether.</p>
 
-Step into the enchanted realms of 🤖 Bots and Automation, where I orchestrate efficiency and magic, empowering processes to dance in harmony. Armed with the sacred tools of Infra – 🐳 Docker, ☸️ Kubernetes, and 🛠️ Terraform – I shape robust environments.
+<p>Delve into the enigmatic artistry of 📊 Data Engineering, where I transmute raw data into profound insights, navigating the shifting sands of information. The data realms serve as my canvas, and I paint with the hues of analytics and machine learning, crafting visions that dance on the edge of chaos and order.</p>
 
-As a dedicated practitioner of DevOps, I bridge the realms of development and operations, fostering a culture of continuous improvement. My quest goes beyond code; it's about crafting experiences, solving challenges, and manifesting ideas into reality.
+<p>Step into the chaotic dance of 🤖 Bots and Automation, where I conduct a symphony of efficiency and unpredictability. Here, processes become agile dancers, swirling in harmonious disarray. With the sacred tools of Infra – 🐳 Docker, ☸️ Kubernetes, and 🛠️ Terraform – I conjure environments that adapt and evolve with the capricious whims of change.</p>
+
+<p>As an ever-evolving DevOps Sorcerer, I traverse the dynamic landscapes between development and operations. My incantations foster a culture of continuous metamorphosis, where the boundary between chaos and order becomes a fluid dance. Beyond the mere scripts and pipelines, my journey is one of crafting experiences, navigating challenges, and manifesting ideas into the ever-shifting tapestry of reality.</p>
 
 ## Connect with me  
 <div align="center">
