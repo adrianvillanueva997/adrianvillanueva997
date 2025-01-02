@@ -81,14 +81,15 @@
 
 ## Spotify Playing 🎧
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xiao_7&unique={true|1|on|yes})
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=xiao_7&unique={true|1|on|yes}" alt="Spotify Playing" />
+</div>
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/adrian-villanueva-martinez/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<div align="center" style="display: flex; justify-content: center; align-items: center; width: 100%;">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=xiao_7&unique={true|1|on|yes}" alt="Spotify Playing" style="margin: auto; display: block; max-width: 100%;" />
+</div>
 
 </p>
 
