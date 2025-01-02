@@ -79,11 +79,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianvillanueva997&theme=auto&hide_border=true&layout=compact&langs_count=25&hide=css,html,yacc" align="center" />
 </div>
 
-## Spotify Playing 🎧
-<div align="center" style="display: flex; justify-content: center; align-items: center; width: 100%;">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=xiao_7&unique={true|1|on|yes}" alt="Spotify Playing" style="margin: auto; display: block; max-width: 100%;" />
-</div>
-
 ## 🌐 Connect With Me
 
 <p align="center">
