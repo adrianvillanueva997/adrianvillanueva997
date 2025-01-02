@@ -97,3 +97,13 @@
   </a>
 </div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h4>⚠️ Personal Profile Disclaimer</h4>
+        <p>This GitHub profile and its contents are personal and do not represent my employer. All views, projects, and content are my own and not affiliated with any company I work or worked for.</p>
+      </td>
+    </tr>
+  </table>
+</div>
