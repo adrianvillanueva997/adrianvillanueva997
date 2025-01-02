@@ -79,6 +79,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianvillanueva997&theme=auto&hide_border=true&layout=compact&langs_count=25&hide=css,html,yacc" align="center" />
 </div>
 
+## Spotify Playing 🎧
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xiao_7&unique={true|1|on|yes})
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -97,6 +101,8 @@
     <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center" />
   </a>
 </div>
+
+---
 
 <div align="center">
   <table>
