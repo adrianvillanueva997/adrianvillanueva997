@@ -15,7 +15,7 @@
 ## 💫 About Me
 
 - 🔭 I'm currently working as a **Cloud & Data Engineer**
-- 🌱 Passionate about **Cloud Architecture, Data Engineering, and MLOps**
+- 🌱 Passionate about **Software and Data Engineering, Self-Hosting and green technologies**
 - 💻 Core tech stack: **Python, Rust, Java, Go, NodeJS**
 - 🛠 DevOps enthusiast: **Terraform, K8s, Docker, AWS, GCP, Azure**
 - 📊 Data Engineering: **Spark, Airflow, Databricks, DBT, Kafka**
