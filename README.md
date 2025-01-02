@@ -22,7 +22,7 @@
 - 🌟 Interest areas: **Self-hosting, AI/ML, Cloud Infrastructure**
 - ⚡ Fun fact: **I write code while listening to metal 🤘**
 - 🎯 Always learning and exploring new technologies
-- 🏃‍♂️ Outside tech: **Hiking, Photography, Cooking, Gaming, Gardening**
+- 🏃‍♂️ Outside tech: **Hiking, Photography, Cooking, Gaming, Gardening and lifting heavier weights**
 - 🌐 Worked across **Netherlands** 🇳🇱, **Spain** 🇪🇸, and **Japan** 🇯🇵
 - 🤝 Passionate about mentoring and building efficient engineering teams
 
