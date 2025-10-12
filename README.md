@@ -76,7 +76,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianvillanueva997&theme=auto&hide_border=true&layout=compact&langs_count=25&hide=css,html,yacc" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianvillanueva997&langs_count=25&layout=compact&hide=css,html,yacc,scss"  />
+  
 </div>
 
 ## 🌐 Connect With Me
