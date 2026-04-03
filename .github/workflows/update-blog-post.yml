@@ -22,18 +22,13 @@ jobs:
                     --retry-delay 5 \
                     --connect-timeout 30 \
                     --max-time 60 \
-                    "https://metalops.dev/rss.xml") || {
+                    "https://api.rss2json.com/v1/api.json?rss_url=https://metalops.dev/rss.xml") || {
                     echo "Failed to fetch RSS feed: $?"
                     exit 0
                   }
 
-                  # Parse RSS XML to extract up to 5 posts
-                  POSTS=$(echo "$RESPONSE" | sed 's/<item>/\n/g' | tail -n +2 | head -5 | while IFS= read -r block; do
-                    title=$(echo "$block" | sed -n 's/.*<title>\([^<]*\)<\/title>.*/\1/p')
-                    link=$(echo "$block" | sed -n 's/.*<link>\([^<]*\)<\/link>.*/\1/p')
-                    desc=$(echo "$block" | sed -n 's/.*<description>\([^<]*\)<\/description>.*/\1/p' | cut -c1-100)
-                    echo "- [$title]($link) — $desc"
-                  done)
+                  # Parse JSON response (limit to 5 items)
+                  POSTS=$(echo "$RESPONSE" | jq -r '.items[:5][] | "- [\(.title)](\(.link)) — \(.description[:100])"')
 
                   if [ -z "$POSTS" ]; then
                     echo "No valid blog posts found"
