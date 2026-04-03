@@ -26,17 +26,15 @@
 - 🌐 Worked across **Netherlands** 🇳🇱, **Spain** 🇪🇸, and **Japan** 🇯🇵
 - 🤝 Passionate about mentoring and building efficient engineering teams
 
-## � Latest Blog Post
+## Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Fail2Ban log parser with Rust](https://metalops.dev/blog/fail2ban-log-parser-intro) — Part 1 of the Building a Multi-Language Parser series, a deep dive into how the fail2ban-log-parser-core crate parses Fail2Ban log files into structured data.
-- [Applying data engineering for image editing](https://metalops.dev/blog/data-engineering-for-photo-editing) — Building an automated CLI pipeline in Python to process RAW photos into responsive AVIF variants with metadata extraction and YAML catalog generation for an Astro-powered photography portfolio.
-- [Welcome to Metalops](https://metalops.dev/blog/metalops) — Brief introduction about metalops and its contents
+- [Building a Fail2Ban log parser with Rust](https://metalops.dev) — Part 1 of the Building a Multi-Language Parser series, a deep dive into how the fail2ban-log-parser-core crate parses Fail2Ban log files into structured data.
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [More posts on metalops.dev](https://metalops.dev)
 
-## �🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <!-- Languages -->
@@ -47,6 +45,7 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
   <!-- Frameworks & Libraries -->

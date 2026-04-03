@@ -15,7 +15,7 @@ jobs:
 
             - name: Fetch blog posts and update README
               run: |
-                  RESPONSE=$(curl -sf "https://metalops.dev/api/v1/blog/all") || {
+                  RESPONSE=$(curl -sf "http://metalops.dev/api/v1/blog/all") || {
                     echo "Failed to fetch blog posts"
                     exit 0
                   }
