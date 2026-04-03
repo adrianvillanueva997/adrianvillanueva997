@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Cloud Infra | Data Engineer</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Data+Engineering+%26+MLOps;Cloud+Architecture;Python+%26+Rust+Developer;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Data+Engineering+%26+MLOps;Python+%26+Rust+Developer" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -14,17 +14,13 @@
 
 ## 💫 About Me
 
-- 🔭 I'm currently working as a **Cloud & Data Engineer**
-- 🌱 Passionate about **Software and Data Engineering, Self-Hosting and green technologies**
-- 💻 Core tech stack: **Python, Rust, Java, Go, NodeJS**
-- 🛠 DevOps enthusiast: **Terraform, K8s, Docker, AWS, GCP, Azure**
+- 🔭 Currently working as a **Cloud & Data Engineer**
+- 💻 Core stack: **Python, Rust, Go, Java** | DevOps: **Terraform, K8s, Docker, AWS, GCP, Azure**
 - 📊 Data Engineering: **Spark, Airflow, Databricks, DBT, Kafka**
-- 🌟 Interest areas: **Self-hosting, AI/ML, Cloud Infrastructure**
-- ⚡ Fun fact: **I write code while listening to metal 🤘**
-- 🎯 Always learning and exploring new technologies
-- 🏃‍♂️ Outside tech: **Hiking, Photography, Cooking, Gaming, Gardening and lifting heavier weights**
+- 🌟 Interests: **Self-hosting, AI/ML, Cloud Infrastructure, Green Tech**
 - 🌐 Worked across **Netherlands** 🇳🇱, **Spain** 🇪🇸, and **Japan** 🇯🇵
-- 🤝 Passionate about mentoring and building efficient engineering teams
+- ⚡ I write code while listening to metal 🤘
+- 🏃‍♂️ Outside tech: **Hiking, Photography, Cooking, Gaming, Gardening & Lifting**
 
 ## Latest Blog Post
 
@@ -52,16 +48,23 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 
+  <!-- Data Engineering -->
+  <img src="https://img.shields.io/badge/Apache_Spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-%23017CEE.svg?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-%23FF694B.svg?style=for-the-badge&logo=dbt&logoColor=white" />
+
   <!-- Databases -->
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<!-- Cloud & DevOps -->
+  <!-- Cloud & DevOps -->
   <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/terragrunt-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
@@ -92,7 +95,12 @@
   <a href="https://linkedin.com/in/adrian-villanueva-martinez/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
+  <a href="https://metalops.dev">
+    <img src="https://img.shields.io/badge/metalops.dev-%23FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white" />
+  </a>
+  <a href="https://adrianvillanueva.com">
+    <img src="https://img.shields.io/badge/adrianvillanueva.com-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
 </p>
 
 ---
