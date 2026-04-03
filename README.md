@@ -101,27 +101,18 @@
   <a href="https://adrianvillanueva.com">
     <img src="https://img.shields.io/badge/adrianvillanueva.com-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
+  <a href="https://avm.photography">
+    <img src="https://img.shields.io/badge/photography-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Open to collaborations, open source, consulting, and new opportunities — feel free to reach out!</em>
 </p>
 
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adrianvillanueva997&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-<div align="center">
-  <a href="https://paypal.me/thexiao77" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center" />
-  </a>
-</div>
 
----
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h4>⚠️ Personal Profile Disclaimer</h4>
-        <p>This GitHub profile and its contents are personal and do not represent my employer. All views, projects, and content are my own and not affiliated with any company I work or worked for.</p>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center"><em>This GitHub profile and its contents are personal and do not represent any employer.</em></p>
