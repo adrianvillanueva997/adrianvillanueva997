@@ -26,7 +26,17 @@
 - 🌐 Worked across **Netherlands** 🇳🇱, **Spain** 🇪🇸, and **Japan** 🇯🇵
 - 🤝 Passionate about mentoring and building efficient engineering teams
 
-## 🛠️ Tech Stack
+## � Latest Blog Post
+
+<!-- BLOG-POST-LIST:START -->
+- [Building a Fail2Ban log parser with Rust](https://metalops.dev/blog/fail2ban-log-parser-intro) — Part 1 of the Building a Multi-Language Parser series, a deep dive into how the fail2ban-log-parser-core crate parses Fail2Ban log files into structured data.
+- [Applying data engineering for image editing](https://metalops.dev/blog/data-engineering-for-photo-editing) — Building an automated CLI pipeline in Python to process RAW photos into responsive AVIF variants with metadata extraction and YAML catalog generation for an Astro-powered photography portfolio.
+- [Welcome to Metalops](https://metalops.dev/blog/metalops) — Brief introduction about metalops and its contents
+<!-- BLOG-POST-LIST:END -->
+
+▶ [More posts on metalops.dev](https://metalops.dev)
+
+## �🛠️ Tech Stack
 
 <p align="center">
   <!-- Languages -->
@@ -67,17 +77,14 @@
   <img src="https://img.shields.io/badge/Data_Engineering-%234285F4.svg?style=for-the-badge&logo=apache-spark&logoColor=white" />
 </p>
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianvillanueva997&theme=auto" alt="GitHub Streak Stats" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
 </div>
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianvillanueva997&langs_count=25&layout=compact&hide=css,html,yacc,scss"  />
-  
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
 
 ## 🌐 Connect With Me

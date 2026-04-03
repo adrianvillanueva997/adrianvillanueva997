@@ -1,0 +1,64 @@
+name: Update README
+
+on:
+    schedule:
+        - cron: "0 */6 * * *" # Every 6 hours
+    workflow_dispatch: # Manual trigger
+
+jobs:
+    update-readme:
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+        steps:
+            - uses: actions/checkout@v4
+
+            - name: Fetch blog posts and update README
+              run: |
+                  RESPONSE=$(curl -sf "https://metalops.dev/api/v1/blog/all") || {
+                    echo "Failed to fetch blog posts"
+                    exit 0
+                  }
+
+                  # Take up to 5 posts, build markdown list
+                  POSTS=$(echo "$RESPONSE" | jq -r '.[0:5][] | "- [\(.title)](https://metalops.dev/blog/\(.id)) — \(.description)"')
+
+                  if [ -z "$POSTS" ]; then
+                    echo "No valid blog posts found"
+                    exit 0
+                  fi
+
+                  # Build the new blog post section
+                  BLOG_SECTION="<!-- BLOG-POST-LIST:START -->"$'\n'"${POSTS}"$'\n'"<!-- BLOG-POST-LIST:END -->"
+
+                  # Replace content between markers
+                  awk -v new="$BLOG_SECTION" '
+                    /<!-- BLOG-POST-LIST:START -->/{found=1; print new; next}
+                    /<!-- BLOG-POST-LIST:END -->/{found=0; next}
+                    !found
+                  ' README.md > README.tmp && mv README.tmp README.md
+
+            - name: Generate stats card
+              uses: readme-tools/github-readme-stats-action@v1
+              with:
+                  card: stats
+                  options: username=${{ github.repository_owner }}&show_icons=true
+                  path: profile/stats.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
+
+            - name: Generate top languages card
+              uses: readme-tools/github-readme-stats-action@v1
+              with:
+                  card: top-langs
+                  options: username=${{ github.repository_owner }}&layout=compact&langs_count=25&hide=css,html,yacc,scss
+                  path: profile/top-langs.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
+
+            - name: Commit and push if changed
+              run: |
+                  git diff --quiet && exit 0
+                  git config user.name "github-actions[bot]"
+                  git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+                  git add README.md profile/*.svg
+                  git commit -m "docs: update README stats and blog post"
+                          git push
