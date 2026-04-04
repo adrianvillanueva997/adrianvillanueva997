@@ -27,8 +27,8 @@ jobs:
                     exit 0
                   }
 
-                  # Parse JSON response (limit to 5 items)
-                  POSTS=$(echo "$RESPONSE" | jq -r '.items[:5][] | "- [\(.title)](\(.link)) — \(.description[:100])"')
+                  # Parse JSON response (sort by pubDate desc, limit to 5)
+                  POSTS=$(echo "$RESPONSE" | jq -r '.items | sort_by(.pubDate) | reverse | .[:5][] | "- [\(.title)](\(.link)) — \(.description)"')
 
                   if [ -z "$POSTS" ]; then
                     echo "No valid blog posts found"
