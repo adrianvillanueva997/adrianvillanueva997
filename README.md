@@ -25,9 +25,9 @@
 ## Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Fail2Ban log parser with rust](https://metalops.dev/blog/fail2ban-log-parser-intro/) — Part 1 of the Building a Multi-Language Parser series,  deep dive into how the fail2ban-log-parser-core crate parses Fail2Ban log files into structured data. (2026-04)
-- [Applying data engineering for image editing](https://metalops.dev/blog/data-engineering-for-photo-editing/) — Building an automated CLI pipeline in Python to process RAW photos into responsive AVIF variants with metadata extraction and YAML catalog generation for an Astro-powered photography portfolio. (2026-03)
-- [Welcome to Metalops](https://metalops.dev/blog/metalops/) — Brief introduction about metalops and its contents (2026-02)
+- [Building a Fail2Ban log parser with rust](https://metalops.dev/blog/fail2ban-log-parser-intro/) — Build a high-performance Fail2Ban log parser in Rust. Parse structured data from log files with winnow parser combinators. Includes Python bindings guide. (2026-04)
+- [Applying data engineering for image editing](https://metalops.dev/blog/data-engineering-for-photo-editing/) — Build an automated Python CLI pipeline for RAW photo processing. Generate AVIF variants, extract EXIF metadata, and create YAML catalogs for Astro portfolios. (2026-03)
+- [Welcome to Metalops](https://metalops.dev/blog/metalops/) — A technical blog about software, systems, infrastructure and DevOps. Deep dives on Rust, infrastructure automation, and building resilient production systems. (2026-02)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [More posts on metalops.dev](https://metalops.dev)
