@@ -25,6 +25,7 @@
 ## Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Spanish Voice Transcription Telegram Bot with Vosk and Rate Limiting](https://metalops.dev/blog/vosk/) — Build a Telegram bot that transcribes Spanish voice messages offline using Vosk speech recognition, with rate limiting and observability built in. (2026-06)
 - [Building a Fail2Ban log parser with rust](https://metalops.dev/blog/fail2ban-log-parser-intro/) — Build a high-performance Fail2Ban log parser in Rust. Parse structured data from log files with winnow parser combinators. Includes Python bindings guide. (2026-04)
 - [Applying data engineering for image editing](https://metalops.dev/blog/data-engineering-for-photo-editing/) — Build an automated Python CLI pipeline for RAW photo processing. Generate AVIF variants, extract EXIF metadata, and create YAML catalogs for Astro portfolios. (2026-03)
 - [Welcome to Metalops](https://metalops.dev/blog/metalops/) — A technical blog about software, systems, infrastructure and DevOps. Deep dives on Rust, infrastructure automation, and building resilient production systems. (2026-02)
