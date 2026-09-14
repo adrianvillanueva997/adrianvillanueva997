@@ -25,6 +25,7 @@
 ## Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [Securing PostgreSQL with TLS via Traefik](https://metalops.dev/blog/securing-postgresql-with-tls-via-traefik/) — How to terminate TLS for PostgreSQL connections at Traefik using Let's Encrypt, without managing certificates inside your PostgreSQL container. (2026-09)
 - [Building a Fail2Ban log parser with rust](https://metalops.dev/blog/fail2ban-log-parser-intro/) — Build a high-performance Fail2Ban log parser in Rust. Parse structured data from log files with winnow parser combinators. Includes Python bindings guide. (2026-04)
 - [Applying data engineering for image editing](https://metalops.dev/blog/data-engineering-for-photo-editing/) — Build an automated Python CLI pipeline for RAW photo processing. Generate AVIF variants, extract EXIF metadata, and create YAML catalogs for Astro portfolios. (2026-03)
 - [Welcome to Metalops](https://metalops.dev/blog/metalops/) — A technical blog about software, systems, infrastructure and DevOps. Deep dives on Rust, infrastructure automation, and building resilient production systems. (2026-02)
